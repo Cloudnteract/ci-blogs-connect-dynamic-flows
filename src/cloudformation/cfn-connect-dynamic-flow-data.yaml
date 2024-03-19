@@ -371,6 +371,19 @@ Resources:
       Status: ENABLED
 
 ####
+# Connect Resources - Phone Number
+####
+
+  rConnectPhoneNumberSampleCustomer:
+    Type: AWS::Connect::PhoneNumber
+    Properties:
+      CountryCode: GB
+      Description: Sample Department - Retail
+      Prefix: "+44"
+      TargetArn: !Ref pConnectInstanceArn
+      Type: DID
+
+####
 # Outputs
 ####
 Outputs:
