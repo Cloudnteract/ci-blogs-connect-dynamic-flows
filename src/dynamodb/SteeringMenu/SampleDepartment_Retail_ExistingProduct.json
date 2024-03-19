@@ -12,6 +12,6 @@
     "Flag_SteeringMenu_NextActionPrompt_2": "Please have your order number ready.",
     "Flag_SteeringMenu_Retries": "1",
     "Prompt_SteeringMenu_MenuOptions": "For return information, please press 1. To speak to an agent, please press 2. To repeat these options, press 9.",
-    "Prompt_SteeringMenu_PreMenuOptions": "I will now give you 3 options",
+    "Prompt_SteeringMenu_PreMenuOptions": "I will now give you 2 options",
     "Prompt_SteeringMenu_Retry": "Sorry, we didnt detect a valid entry."
 }

@@ -15,6 +15,6 @@
     "Flag_SteeringMenu_NextActionValue_Default": "QUEUE ARN",
     "Flag_SteeringMenu_Retries": "1",
     "Prompt_SteeringMenu_MenuOptions": "For online support, please press 1, For in-store support, please press 2. For delivery information, please press 3. For anything else, please press 4. To repeat these options, press 9.",
-    "Prompt_SteeringMenu_PreMenuOptions": "I will now give you 3 options",
+    "Prompt_SteeringMenu_PreMenuOptions": "I will now give you 4 options",
     "Prompt_SteeringMenu_Retry": "Sorry, we didnt detect a valid entry."
 }
