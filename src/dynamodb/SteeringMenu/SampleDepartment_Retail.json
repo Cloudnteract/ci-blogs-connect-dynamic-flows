@@ -1,0 +1,18 @@
+{
+    "Primary_Key": "SampleDepartment_Retail",
+    "Resource_Type": "SteeringMenu",
+    "Flag_SteeringMenu_NextActionType_1": "steeringmenu",
+    "Flag_SteeringMenu_NextActionType_2": "steeringmenu",
+    "Flag_SteeringMenu_NextActionType_3": "queue",
+    "Flag_SteeringMenu_NextActionType_9": "steeringmenu",    
+    "Flag_SteeringMenu_NextActionType_Default": "queue",
+    "Flag_SteeringMenu_NextActionValue_1": "SampleDepartment_Retail_NewProduct",
+    "Flag_SteeringMenu_NextActionValue_2": "SampleDepartment_Retail_ExistingProduct",
+    "Flag_SteeringMenu_NextActionValue_3": "QUEUE ARN",
+    "Flag_SteeringMenu_NextActionValue_9": "SampleDepartment_Retail",
+    "Flag_SteeringMenu_NextActionValue_Default": "QUEUE ARN",
+    "Flag_SteeringMenu_Retries": "1",
+    "Prompt_SteeringMenu_MenuOptions": "For information on purchasing a new product, please press 1. For information on a product you have already purchased, press 2. For anything else, please press 3. To repeat these options, press 9.",
+    "Prompt_SteeringMenu_PreMenuOptions": "I will now give you 3 options",
+    "Prompt_SteeringMenu_Retry": "Sorry, we didnt detect a valid entry."
+}

@@ -1,0 +1,20 @@
+{
+    "Primary_Key": "SampleDepartment_Retail_NewProduct",
+    "Resource_Type": "SteeringMenu",
+    "Flag_SteeringMenu_NextActionType_1": "queue",
+    "Flag_SteeringMenu_NextActionType_2": "queue",
+    "Flag_SteeringMenu_NextActionType_3": "disconnect",
+    "Flag_SteeringMenu_NextActionType_4": "queue",
+    "Flag_SteeringMenu_NextActionType_9": "steeringmenu",    
+    "Flag_SteeringMenu_NextActionType_Default": "queue",
+    "Flag_SteeringMenu_NextActionValue_1": "QUEUE ARN",
+    "Flag_SteeringMenu_NextActionValue_2": "QUEUE ARN",
+    "Flag_SteeringMenu_NextActionValue_3": "We aim to ship all items ordered before 1pm on the same day, after this time items will be dispatched the following working day. Goodbye",
+    "Flag_SteeringMenu_NextActionValue_4": "QUEUE ARN",
+    "Flag_SteeringMenu_NextActionValue_9": "SampleDepartment_Retail_NewProduct",
+    "Flag_SteeringMenu_NextActionValue_Default": "QUEUE ARN",
+    "Flag_SteeringMenu_Retries": "1",
+    "Prompt_SteeringMenu_MenuOptions": "For online support, please press 1, For in-store support, please press 2. For delivery information, please press 3. For anything else, please press 4. To repeat these options, press 9.",
+    "Prompt_SteeringMenu_PreMenuOptions": "I will now give you 3 options",
+    "Prompt_SteeringMenu_Retry": "Sorry, we didnt detect a valid entry."
+}

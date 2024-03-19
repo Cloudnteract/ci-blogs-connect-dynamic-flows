@@ -1,0 +1,14 @@
+{
+    "Primary_Key": "SampleDepartment_Retail_NewProduct_Other",
+    "Resource_Type": "Queue",
+    "Flag_Queue_Analytics": "realtime",
+    "Flag_Queue_ContactRecording": "enabled",
+    "Flag_Queue_OutOfHourActionType": "disconnect",
+    "Flag_Queue_OutOfHourActionValue": "Sorry, we are currently closed",
+    "Flag_Queue_Redaction": "RedactedAndOriginal",
+    "Flag_Queue_ScreenRecording": "enabled",
+    "Flag_Queue_Timezone": "Europe/London",
+    "Prompt_Queue_WhisperAgent": "Retail - New Product - Other",
+    "Prompt_Queue_WhisperCustomer": "Now connecting you with $.Agent.FirstName",
+    "Prompt_Queue_PreQueue": "All calls are monitored or recorded for quality and training purposes."
+   }
