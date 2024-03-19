@@ -86,7 +86,6 @@
 | Flag_Queue_Analytics | String | `postcall \| realtime \| disabled` (Default disabled) |
 | Flag_Queue_Redaction | String | `RedactedAndOriginal \| Redacted` (Default RedactedAndOriginal) |
 | Prompt_Queue_WhisperAgent | String | Prompted to be played to the Agent as the call is connected |
-| Prompt_Queue_WhisperCustomer | String | Prompted to be played to the Customer as the call is connected |
 | Flag_Queue_OutOfHourActionType | String | Determines what to do when out of hours, must be one of `queue, steeringmenu, flow, disconnect` |
 | Flag_Queue_OutOfHourActionValue | String | Value relating to the OutOfHourActionType, e.g. Queue Arn, Contact Steering Menu Name, Flow Arn, Message to play before disconnect |
 
@@ -104,7 +103,6 @@
     "Flag_Queue_Redaction": "RedactedAndOriginal",
     "Flag_Queue_ScreenRecording": "enabled",
     "Prompt_Queue_WhisperAgent": "Sample Department - Default",
-    "Prompt_Queue_WhisperCustomer": "Now connecting you with $.Agent.FirstName",
     "Prompt_Queue_PreQueue": "All calls are monitored or recorded for quality and training purposes."
    }
 ```

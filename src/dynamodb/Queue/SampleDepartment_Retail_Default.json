@@ -9,6 +9,5 @@
     "Flag_Queue_ScreenRecording": "enabled",
     "Flag_Queue_Timezone": "Europe/London",
     "Prompt_Queue_WhisperAgent": "Sample Department - Retail",
-    "Prompt_Queue_WhisperCustomer": "Now connecting you with $.Agent.FirstName",
     "Prompt_Queue_PreQueue": "All calls are monitored or recorded for quality and training purposes."
    }

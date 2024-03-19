@@ -4,7 +4,6 @@
     "Queue_DeliveryId_DefaultQueue": "QUEUE ARN",
     "Flag_DeliveryId_NextActionType": "steeringmenu",
     "Flag_DeliveryId_NextActionValue": "SampleDepartment_Retail",
-    "Flag_DeliveryId_CustomerProfiles": "enabled",
     "Prompt_DeliveryId_Welcome": "Welcome to Sample Department.",
     "Prompt_DeliveryId_WelcomeAdHoc": ""
    }
